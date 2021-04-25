@@ -7,3 +7,7 @@ sdasdasds
 first branch changes without commit
 
 after merging with master, changes in firstbranch
+
+adding 2 new lines
+line1
+line2
