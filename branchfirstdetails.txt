@@ -5,3 +5,5 @@ sdasdasds
 
 
 first branch changes without commit
+
+after merging with master, changes in firstbranch
